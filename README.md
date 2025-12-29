@@ -1,26 +1,35 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:** 
+## 🔭 I’m currently working on
 
-Expanding my software engineering skills with a focus on AWS cloud services (Lambda, S3, DynamoDB, API Gateway), backend systems, and building reliable, scalable applications. Actively shadowing software engineering teams to deepen my understanding of DevOps practices and modern Agile workflows.
+I’m continuing to grow my software engineering skills with a focus on AWS and serverless development. Recently, I built and deployed an **AWS Image Thumbnail Generator**, a serverless web app that uses **Lambda, S3, API Gateway, IAM, and CloudWatch** to handle secure image uploads and automatic thumbnail creation.
 
+I’m also shadowing software engineering teams to better understand **DevOps practices, CI/CD workflows, and Agile development**, while learning how real production systems are designed, deployed, and maintained.
 
-👯 **I’m looking to collaborate on:** 
+---
 
-Cloud-native projects, fintech-related applications, algorithm-focused builds, and anything involving clean code design, automation, and problem solving.
+## 👯 I’m looking to collaborate on
 
+Cloud-native or serverless projects, backend applications, fintech-related ideas, and algorithm-focused builds. I enjoy working on problems that involve **clean code, automation, APIs, and practical system design**, and I’m always looking to learn from others.
 
-🤝 **I’m looking for help with:** 
+---
 
-Advanced AWS architecture patterns, Infrastructure as Code (Terraform, CloudFormation), security best practices, CI/CD pipelines, and improving deployment strategies for scalable systems.
+## 🤝 I’m looking for help with
 
-🌱 **I’m currently learning:** 
+Going deeper into **AWS architecture patterns**, **Infrastructure as Code** (Terraform, CloudFormation), setting up **CI/CD pipelines**, and improving deployment and security practices for scalable systems.
 
-A* search, RSA encryption, graph theory, financial modeling, machine learning applications in finance, and blockchain development through hands-on projects from the ASU FinTech Bootcamp.
+---
 
-💬 **Ask me about:** 
+## 🌱 I’m currently learning
 
-AWS fundamentals and services, Python programming for automation and data analysis, algorithm design and discrete math concepts, blockchain basics, and turning complex technical ideas into simple, functional solutions.
+Algorithms and computer science fundamentals such as **A\* search, graph theory, RSA encryption, and discrete math**, along with **financial modeling, machine learning applications in finance, and blockchain development** through hands-on projects in the **ASU FinTech Bootcamp**.
+
+---
+
+## 💬 Ask me about
+
+AWS basics and serverless development, building APIs with **Lambda and API Gateway**, working with **S3 and event-driven workflows**, Python for automation and backend logic, and breaking down complex technical ideas into simple, working solutions.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrianMcHorney) 
 
