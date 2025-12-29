@@ -1,6 +1,6 @@
-## 👋 About Me
+# Brian McHorney – Junior Software Developer
 
-I’m a junior software developer focused on backend and cloud-native development, with a growing interest in fintech, algorithms, and scalable system design. I learn best by building things end-to-end and breaking systems down until they make sense.
+I’m a junior software developer focused on backend and cloud-native systems, with a growing interest in fintech, algorithms, and scalable application design. I learn best by building projects end-to-end and breaking systems down until they make sense.
 
 ---
 
@@ -16,7 +16,7 @@ Alongside hands-on development, I’m actively shadowing software engineering te
 
 ### ASU FinTech Bootcamp (24-week, part-time, online)
 
-I’m currently completing the **ASU FinTech Bootcamp**, a 24-week program designed for working professionals and career changers entering the fintech space. The program focuses on practical, project-based learning and portfolio development.
+I have completed the **ASU FinTech Bootcamp**, a 24-week program designed for working professionals and career changers entering the fintech space. The program focuses on practical, project-based learning and portfolio development.
 
 **Core areas of study include:**
 - **Python programming** for data analysis, automation, and financial applications  
@@ -27,7 +27,28 @@ I’m currently completing the **ASU FinTech Bootcamp**, a 24-week program desig
 - **SQL and data management** for working with structured financial datasets
 - **Real-world projects**, culminating in a portfolio of finance-related and technical work
 
-The bootcamp emphasizes applying concepts to real problems rather than memorization, which has helped me connect software engineering principles with financial systems.
+The bootcamp emphasized applying concepts to real problems rather than memorization, which helped me connect software engineering principles with financial systems.
+
+---
+
+## 🔧 I’m actively practicing
+
+- Implementing and visualizing algorithms (A*, graph theory, modular arithmetic, RSA) through hands-on projects
+- Designing and benchmarking AI strategies, including multiple solvers for the **2048 game** with 1000-game simulations, Demo: [2048 Game](https://xbmm1.github.io/2048/2048-with-scores.html)
+- Writing clean, testable logic using **pure functions** and clear separation of concerns
+- Building interactive visualizations for math, physics, and data concepts using HTML, JavaScript, and canvas/WebGL
+- Applying software design patterns (strategy pattern, closures, immutable state) in small projects
+- Deploying and iterating on personal projects to understand real-world debugging, performance, and trade-offs
+
+---
+
+## 🌱 I’m currently learning
+
+- Deeper algorithm and data structure concepts, including pathfinding and discrete math fundamentals
+- Applied cryptography, such as RSA and modular arithmetic
+- Practical AI heuristics and evaluation functions
+- Financial modeling and machine learning concepts as applied to real-world finance problems
+- Cloud and backend design patterns for building scalable systems
 
 ---
 
@@ -43,8 +64,8 @@ A serverless web application that automatically generates image thumbnails.
 - Permission management with **IAM**
 - Monitoring and debugging with **CloudWatch**
 
-Live demo:  
-http://image-thumbnail-app-brian.s3-website-us-west-2.amazonaws.com
+Live demo: [AWS Image Thumbnail Generator](http://image-thumbnail-app-brian.s3-website-us-west-2.amazonaws.com)  
+Key learnings: serverless architecture, event-driven workflows, secure file handling, and API integration
 
 ---
 
@@ -57,7 +78,7 @@ I maintain a growing collection of small projects and demos focused on:
 - **Fractals, shaders, and graphical experiments**
 - **Data visualization and graphing**
 
-These projects help me understand complex ideas by implementing and visualizing them step by step, rather than treating them as black boxes.
+These projects continue to help me practice algorithms and problem-solving beyond the ASU FinTech Bootcamp by implementing and visualizing ideas step by step.
 
 ---
 
@@ -76,18 +97,10 @@ Cloud-native or serverless projects, backend applications, fintech-related ideas
 
 ---
 
-## 🌱 I’m currently learning
-
-- A* search, graph theory, and discrete math
-- RSA encryption and applied cryptography concepts
-- Financial modeling and machine learning applications in finance
-- Blockchain fundamentals and smart contract development
-
----
-
 ## 💬 Ask me about
 
-AWS fundamentals and serverless development, building APIs with **Lambda and API Gateway**, **S3 event-driven workflows**, Python for automation and backend logic, algorithm design, or how to turn complex technical ideas into simple, working solutions.
+AWS fundamentals and serverless development, building APIs with **Lambda and API Gateway**, **S3 event-driven workflows**, Python for automation and backend logic, designing and benchmarking simple AI strategies, algorithm fundamentals (A*, RSA, heuristics), and how I break down complex technical ideas into clear, working implementations.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrianMcHorney) 
@@ -107,6 +120,8 @@ AWS fundamentals and serverless development, building APIs with **Lambda and API
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xbmm1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xbmm1&theme=react-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xbmm1&icon=0&color=0)](https://visitcount.itsvg.in)
