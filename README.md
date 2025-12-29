@@ -1,6 +1,7 @@
 # Brian McHorney
 I’m a junior software developer focused on backend and cloud-native systems, with a growing interest in fintech, algorithms, and scalable application design. I learn best by building projects end-to-end and breaking systems down until they make sense.
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ## 🔭 I’m currently working on
@@ -114,8 +115,7 @@ AWS fundamentals and serverless development, building APIs with **Lambda and API
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xbmm1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xbmm1&limit=5&theme=dark&combine_all_yearly_contributions=true)
