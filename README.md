@@ -121,7 +121,7 @@ AWS fundamentals and serverless development, building APIs with **Lambda and API
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xbmm1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xbmm1&theme=react-dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xbmm1&icon=0&color=0)](https://visitcount.itsvg.in)
