@@ -1,20 +1,26 @@
 # 💫 About Me:
 
-🔭 **I’m currently working on:**  
-Expanding my software engineering skills with a focus on AWS, backend systems, and building reliable, scalable tools.
+🔭 **I’m currently working on:** 
 
-👯 **I’m looking to collaborate on:**  
-Cloud projects, algorithm-focused builds, and anything that involves clean design and problem solving.
+Expanding my software engineering skills with a focus on AWS cloud services (Lambda, S3, DynamoDB, API Gateway), backend systems, and building reliable, scalable applications. Actively shadowing software engineering teams to deepen my understanding of DevOps practices and modern Agile workflows.
 
-🤝 **I’m looking for help with:**  
-Advanced cloud patterns, security best practices, and improving the way I structure and deploy applications.
 
-🌱 **I’m currently learning:**  
-A* search, RSA encryption, graph theory, and the math behind algorithms by coding them from scratch.
+👯 **I’m looking to collaborate on:** 
 
-💬 **Ask me about:**  
-AWS fundamentals, algorithm design, discrete math concepts, and turning complex ideas into simple, working code.
+Cloud-native projects, fintech-related applications, algorithm-focused builds, and anything involving clean code design, automation, and problem solving.
 
+
+🤝 **I’m looking for help with:** 
+
+Advanced AWS architecture patterns, Infrastructure as Code (Terraform, CloudFormation), security best practices, CI/CD pipelines, and improving deployment strategies for scalable systems.
+
+🌱 **I’m currently learning:** 
+
+A* search, RSA encryption, graph theory, financial modeling, machine learning applications in finance, and blockchain development through hands-on projects from the ASU FinTech Bootcamp.
+
+💬 **Ask me about:** 
+
+AWS fundamentals and services, Python programming for automation and data analysis, algorithm design and discrete math concepts, blockchain basics, and turning complex technical ideas into simple, functional solutions.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BrianMcHorney) 
 
