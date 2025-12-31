@@ -1,5 +1,5 @@
 # Brian McHorney
-I’m a junior software developer focused on **backend and cloud-native systems**, with a growing interest in fintech, algorithms, and scalable application design. I learn best by building projects end-to-end and breaking systems down until they make sense.
+I’m a aspiring software developer focused on **backend and cloud-native systems**, with a growing interest in fintech, algorithms, and scalable application design. I learn best by building projects end-to-end and breaking systems down until they make sense.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
