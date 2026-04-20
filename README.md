@@ -13,9 +13,12 @@ Alongside hands-on development, I’m actively shadowing software engineering te
 ---
 
 ## 🧠 Education & Training
-<a href="https://www.credly.com/badges/3abab349-cecd-48a9-be9f-b4da01d00e22">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"/>
-</a>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://www.credly.com/badges/3abab349-cecd-48a9-be9f-b4da01d00e22">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certification"/>
+  </a>
+  <img src="images/asu-fintech-badge.png" width="100" alt="ASU FinTech Digital Bootcamp"/>
+</div>
 
 ### ASU FinTech Bootcamp (24-week, part-time, online)
 
