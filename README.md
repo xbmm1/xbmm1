@@ -13,7 +13,7 @@ Alongside hands-on development, I’m actively shadowing software engineering te
 ---
 
 ## 🧠 Education & Training
-
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/3abab349-cecd-48a9-be9f-b4da01d00e22.png)](https://www.credly.com/badges/3abab349-cecd-48a9-be9f-b4da01d00e22)
 ### ASU FinTech Bootcamp (24-week, part-time, online)
 
 I have completed the **ASU FinTech Bootcamp**, a 24-week program designed for working professionals and career changers entering the fintech space. The program focuses on practical, project-based learning and portfolio development.
