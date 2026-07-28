@@ -122,7 +122,9 @@ AWS fundamentals and serverless development, building APIs with **Lambda and API
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xbmm1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 📈 Contribution Graph
 
+[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xbmm1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xbmm1&limit=5&theme=dark&combine_all_yearly_contributions=true)
