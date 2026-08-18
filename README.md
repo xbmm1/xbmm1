@@ -14,11 +14,20 @@ Alongside hands-on development, I’m actively shadowing software engineering te
 ---
 
 ## 🧠 Education & Training
-<div style="display: flex; gap: 20px; align-items: center;">
+<div>
   <a href="https://www.credly.com/badges/3abab349-cecd-48a9-be9f-b4da01d00e22">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certification"/>
-  </a>
-  <img src="images/asu-fintech-badge.png" width="100" alt="ASU FinTech Digital Bootcamp"/>
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+         height="110"
+         alt="AWS Certified Cloud Practitioner">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/76a4cdcc-ebca-4d78-a2de-8206c889792c">
+    <img src="https://images.credly.com/size/340x340/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob"
+         height="110"
+         alt="AWS Cloud Quest: Generative AI Practitioner">
+  </a>&nbsp;&nbsp;&nbsp;
+  <img src="images/asu-fintech-badge.png"
+       height="100"
+       alt="ASU FinTech Digital Bootcamp">
 </div>
 
 ### ASU FinTech Bootcamp (24-week, part-time, online)
